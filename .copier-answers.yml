@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: v0.3.5
+_src_path: git+https://gitlab.ewi.tudelft.nl/reit/python-package-template
+email: osikazuzanna@gmail.com
+environment_manager: uv
+full_name: Zuzanna
+host: github.com
+license: MIT
+min_python_version: '3.10'
+org: zuzannaosika
+project_name: MyProject
+project_short_description: A great package.
+python_name: myproject
+url: https://github.com/zuzannaosika/MyProject
